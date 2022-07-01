@@ -11,6 +11,7 @@ body{
     background-position: center center;
 }
 .inputField{
+    margin-left: 30px;
     width: 200px;
     height: 43px;
     resize: none;
@@ -27,6 +28,7 @@ body{
     padding-right: 20px;
     padding-left: 20px;
     margin-left: 30px;
+    border: none;
    
 }
 .todoParagraph{
@@ -45,4 +47,9 @@ h1{
     margin: 10px 0 20px;
     text-align: center;
     padding-top: 50px;
-  }
+}
+.amount{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
