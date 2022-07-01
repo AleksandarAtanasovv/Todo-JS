@@ -10,7 +10,7 @@ body{
     background-image: cover;
     background-position: center center;
 }
-.inputField textarea{
+.inputField{
     width: 200px;
     height: 43px;
     resize: none;
